@@ -23,7 +23,7 @@ The Subscription Management System is a full-stack web application designed to m
 ## **Technologies Used**
 - **Backend**: Django (Python)
 - **Frontend**: React (JavaScript)
-- **Database**: SQLite (development) / PostgreSQL (production)
+- **Database**: SQLite (development) 
 - **HTTP Client**: Axios
 - **Styling**: CSS
 
